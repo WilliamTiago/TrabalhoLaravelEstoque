@@ -3,11 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/wamp64/www/estoque/routes/web.php</file>
-            <file>file:/C:/wamp64/www/estoque/.env</file>
-            <file>file:/C:/wamp64/www/estoque/resources/views/produtos-listagem.php</file>
-            <file>file:/C:/wamp64/www/estoque/config/database.php</file>
-            <file>file:/C:/wamp64/www/estoque/app/Http/Controllers/ProdutoController.php</file>
+            <file>file:/C:/wamp64/www/TrabalhoLaravelEstoque/resources/views/produto/adicionado.blade.php</file>
+            <file>file:/C:/wamp64/www/TrabalhoLaravelEstoque/routes/web.php</file>
+            <file>file:/C:/wamp64/www/TrabalhoLaravelEstoque/app/Http/Controllers/ProdutoController.php</file>
+            <file>file:/C:/wamp64/www/TrabalhoLaravelEstoque/resources/views/produto/formulario.blade.php</file>
         </group>
     </open-files>
 </project-private>
